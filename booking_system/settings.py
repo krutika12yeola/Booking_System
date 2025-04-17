@@ -19,7 +19,7 @@ SECRET_KEY = 'django-insecure-1+)(u#b#8ah%knwm*kx=*o(wga)ylsf#wlr*zauc4rc1b29q9l
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['booking-system-32uc.onrender.com', 'localhost', '127.0.0.1']
 
 
 INSTALLED_APPS = [
