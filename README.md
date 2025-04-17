@@ -1,0 +1,1 @@
+In this task, I pushed your Django project to GitHub, connected it to Render for deployment, and configured the necessary build and start commands. I also added the required email environment variables in the Render dashboard to ensure email functionality. After deployment, I accessed the live website to verify its proper working.
